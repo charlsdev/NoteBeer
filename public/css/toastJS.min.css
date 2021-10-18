@@ -1,0 +1,90 @@
+.jq-toast-single {
+   padding: 15px;
+   /* font-family: "Libre Franklin", sans-serif; */
+   background-color: #D1ECF1;
+   font-size: 13px;
+   line-height: 22px;
+   font-weight: bold !important;
+   font-family: 'Poppins', sans-serif !important;
+}
+.jq-toast-single h2 {
+   font-weight: bold !important;
+   /* font-family: "Libre Franklin", sans-serif; */
+   text-shadow: none;
+}
+.jq-toast-single a {
+   font-size: 14px;
+}
+.jq-toast-single a:hover {
+   color: #fff;
+}
+.jq-has-icon {
+   padding: 10px 10px 10px 50px;
+}
+.jq-icon-info {
+   /* background-color: #35b8e0; */
+   background-color: #3bbee6;
+   color: #333;
+   /* border-color: #35b8e0; */
+   border-color: #008fbb;
+}
+.jq-icon-info h2 {
+   color: #073e47;
+}
+.jq-icon-info span {
+   color: #fff;
+}
+.jq-icon-success {
+   background-color: #31ce77;
+   /* background-color: #52ffa0; */
+   color: #333;
+   border-color: #31ce77;
+}
+.jq-icon-success h2 {
+   color:  #0c4619;
+}
+.jq-icon-success span {
+   color: #fff;
+}
+.jq-icon-warning {
+   /* background-color: #ffd676; */
+   background-color: #ffdd6f;
+   color: #333;
+   border-color: #ffb70e;
+}
+.jq-icon-warning h2 {
+   color: #664d03;
+}
+.jq-icon-warning span {
+   color: #fff;
+}
+.jq-icon-error {
+   background-color: #ff5b56;
+   color: #242424;
+   border-color: #ff3e37;
+}
+.jq-icon-error h2 {
+   color: #e6e0e0;
+}
+.jq-icon-error span {
+   color: #fff;
+}
+.close-jq-toast-single {
+   position: absolute;
+   top: -12px;
+   right: -12px;
+   font-size: 20px;
+   cursor: pointer;
+   height: 32px;
+   width: 32px;
+   background-color: #525663;
+   border-radius: 50%;
+   text-align: center;
+   line-height: 32px;
+   color: #fff;
+}
+.jq-toast-loader {
+   height: 3px;
+   top: 0;
+   border-radius: 0;
+}
