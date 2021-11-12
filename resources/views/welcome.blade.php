@@ -10,7 +10,7 @@
 
 @section('content')
    <div class="alert alert-secondary" role="alert">
-      A simple secondary alert—check it out!
+      Una simple alerta secundaria: ¡compruébelo!
    </div>
    <img src="img/fav-icon.png" class="rounded mx-auto d-block" alt="Page welcome Note Beer">
 @endsection
